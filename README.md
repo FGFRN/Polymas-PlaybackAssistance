@@ -25,7 +25,7 @@
 ## 安装
 
 1. 在浏览器中安装 Tampermonkey 扩展。
-2. [然后点此安装这个脚本](https://raw.githubusercontent.com/FGFRN/Polymas-PlaybackAssistance/main/polymas-helper.user.js)
+2. [然后点此安装这个脚本](https://raw.githubusercontent.com/FGFRN/Polymas-PlaybackAssistance/main/PolymasStudyHelper.js)
 4. 刷新课程页面，打开一个视频。
 5. 确认页面右下角出现“Polymas 播放辅助”面板。
 
